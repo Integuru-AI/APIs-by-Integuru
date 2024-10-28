@@ -1,6 +1,6 @@
 # Existing Unofficial APIs by Integuru
 
-This is a collection of unofficial APIs that we already built. We take custom requests for new integrations or additional features for existing supported platforms.
+This is a collection of unofficial APIs that we already built. We take custom requests for new platforms or additional features for existing platforms.
 
 [Venmo](https://github.com/Integuru-AI/Venmo-Unofficial-API)
 - Get account identity and balance
@@ -18,4 +18,4 @@ Reference main.py for usage.
 
 ## Info
 
-These unofficial APIs are built by [Integuru.ai](https://integuru.ai). We take custom requests for new integrations or additional features for existing supported platforms. We also offer hosting and authentication services. If you have requests or want to work with us, reach out at richard@taiki.online.
+These unofficial APIs are built by [Integuru.ai](https://integuru.ai). We take custom requests for new platforms or additional features for existing platforms. We also offer hosting and authentication services. If you have requests or want to work with us, reach out at richard@taiki.online.
