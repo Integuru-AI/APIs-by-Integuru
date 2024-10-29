@@ -1,8 +1,9 @@
 [submodule "venmo"]
 	path = venmo
-	url = https://github.com/Unofficial-APIs/Venmo.git
+	url = https://github.com/Integuru-AI/Venmo-Unofficial-API
 	branch = main
 [submodule "robinhood"]
 	path = robinhood
-	url = https://github.com/Unofficial-APIs/Robinhood-Unofficial-API.git
+	url = https://github.com/Integuru-AI/Robinhood-Unofficial-API
 	branch = main
+a
