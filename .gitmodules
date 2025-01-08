@@ -16,3 +16,8 @@
 	path = viventium
 	url = https://github.com/Integuru-AI/Viventium-Unofficial-API
 	branch = main
+
+[submodule "heno"]
+	path = heno
+	url = https://github.com/Integuru-AI/Heno-Unofficial-API.git
+	branch = main
