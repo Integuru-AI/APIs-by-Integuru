@@ -21,3 +21,8 @@
 	path = heno
 	url = https://github.com/Integuru-AI/Heno-Unofficial-API.git
 	branch = main
+
+[submodule "appfolio"]
+    path = appfolio
+    url = https://github.com/Integuru-AI/AppFolio-Unofficial-API.git
+    branch = main
