@@ -25,3 +25,6 @@
 [submodule "appfolio"]
 	path = appfolio
 	url = https://github.com/Integuru-AI/AppFolio-Unofficial-API.git
+[submodule "calendly"]
+	path = calendly
+	url = https://github.com/Integuru-AI/Calendly-Unofficial-API.git
