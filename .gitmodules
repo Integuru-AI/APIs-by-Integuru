@@ -28,3 +28,6 @@
 [submodule "calendly"]
 	path = calendly
 	url = https://github.com/Integuru-AI/Calendly-Unofficial-API.git
+[submodule "intuit"]
+	path = intuit
+	url = https://github.com/Integuru-AI/Intuit-Unofficial-API
