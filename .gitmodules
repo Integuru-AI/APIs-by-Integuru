@@ -35,3 +35,6 @@
 	path = intuit
 	url = https://github.com/Integuru-AI/Intuit-Unofficial-API
 	branch = main
+[submodule "brightree"]
+	path = brightree
+	url = https://github.com/Integuru-AI/Brightree-Unofficial-API
