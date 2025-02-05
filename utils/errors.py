@@ -18,7 +18,7 @@ class IntegrationAPIError(IntegrationError):
         self,
         integration_name: str,
         message: str,
-        status_code: int = None,
+        status_code: int = 400,
         error_code: str = None,
     ):
         super().__init__(
