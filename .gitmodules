@@ -40,3 +40,6 @@
 	path = brightree
 	url = https://github.com/Integuru-AI/Brightree-Unofficial-API
 	branch =  main
+[submodule "songkick"]
+	path = songkick
+	url = https://github.com/Integuru-AI/Songkick-Unofficial-API.git
