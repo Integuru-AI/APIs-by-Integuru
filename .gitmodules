@@ -45,6 +45,7 @@
 	path = service_titan
 	url = https://github.com/Integuru-AI/ServiceTitan-Unofficial-API
 	branch = main
+
 [submodule "songkick"]
 	path = songkick
 	url = https://github.com/Integuru-AI/Songkick-Unofficial-API.git
