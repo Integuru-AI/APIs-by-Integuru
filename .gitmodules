@@ -49,3 +49,8 @@
 [submodule "songkick"]
 	path = songkick
 	url = https://github.com/Integuru-AI/Songkick-Unofficial-API.git
+
+[submodule "bcbsal_ember"]
+	path = bcbsal_ember
+	url = https://github.com/Integuru-AI/BCBSAL-Unofficial-API
+	branch = main
