@@ -54,3 +54,8 @@
 	path = bcbsal_ember
 	url = https://github.com/Integuru-AI/BCBSAL-Unofficial-API
 	branch = main
+
+[submodule "oncoemr"]
+	path = oncoemr
+	url = https://github.com/Integuru-AI/OncoEMR-Unofficial-API
+	branch = main
