@@ -59,3 +59,8 @@
 	path = oncoemr
 	url = https://github.com/Integuru-AI/OncoEMR-Unofficial-API
 	branch = main
+
+[submodule "practicefusion"]
+	path = practicefusion
+	url = https://github.com/Integuru-AI/PracticeFusion-Unofficial-API
+	branch = main
