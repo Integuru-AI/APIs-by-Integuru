@@ -64,3 +64,6 @@
 	path = practicefusion
 	url = https://github.com/Integuru-AI/PracticeFusion-Unofficial-API
 	branch = main
+[submodule "ecw"]
+	path = ecw
+	url = https://github.com/Integuru-AI/ECW-Unofficial-API.git
