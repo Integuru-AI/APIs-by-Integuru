@@ -67,3 +67,6 @@
 [submodule "ecw"]
 	path = ecw
 	url = https://github.com/Integuru-AI/ECW-Unofficial-API.git
+[submodule "office_ally"]
+	path = office_ally
+	url = https://github.com/Integuru-AI/OfficeAllt-Unofficial-API.git
