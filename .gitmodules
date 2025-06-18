@@ -70,3 +70,6 @@
 [submodule "office_ally"]
 	path = office_ally
 	url = https://github.com/Integuru-AI/OfficeAllt-Unofficial-API.git
+[submodule "patreon"]
+	path = patreon
+	url = https://github.com/Integuru-AI/Patreon-Unofficial-API
