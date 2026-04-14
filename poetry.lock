@@ -243,18 +243,18 @@ beautifulsoup4 = "*"
 
 [[package]]
 name = "fake-useragent"
-version = "1.5.1"
+version = "2.2.0"
 description = "Up-to-date simple useragent faker with real world database"
 optional = false
-python-versions = "*"
+python-versions = ">=3.9"
 groups = ["main"]
 files = [
-    {file = "fake-useragent-1.5.1.tar.gz", hash = "sha256:6387269f5a2196b5ba7ed8935852f75486845a1c95c50e72460e6a8e762f5c49"},
-    {file = "fake_useragent-1.5.1-py3-none-any.whl", hash = "sha256:57415096557c8a4e23b62a375c21c55af5fd4ba30549227f562d2c4f5b60e3b3"},
+    {file = "fake_useragent-2.2.0-py3-none-any.whl", hash = "sha256:67f35ca4d847b0d298187443aaf020413746e56acd985a611908c73dba2daa24"},
+    {file = "fake_useragent-2.2.0.tar.gz", hash = "sha256:4e6ab6571e40cc086d788523cf9e018f618d07f9050f822ff409a4dfe17c16b2"},
 ]
 
 [package.dependencies]
-importlib-resources = {version = ">=5.0", markers = "python_version < \"3.10\""}
+importlib-resources = {version = ">=6", markers = "python_version < \"3.10\""}
 
 [[package]]
 name = "frozenlist"
@@ -740,4 +740,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.9"
-content-hash = "dc9b78c192412e6ef1c93205f65270f26f0affcd1ab58f00754a1fe6f90663b3"
+content-hash = "cc4dffdab19672a4994a660231f11b13ab7cf864e7fcc661444de6699b7f80aa"
