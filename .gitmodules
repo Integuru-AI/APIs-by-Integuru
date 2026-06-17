@@ -1,15 +1,15 @@
 [submodule "venmo"]
 	path = venmo
-	url = https://github.com/Unofficial-APIs/Venmo.git
+	url = https://github.com/Integuru-AI/Venmo-Unofficial-API.git
 	branch = main
 	
 [submodule "robinhood"]
 	path = robinhood
-	url = https://github.com/Unofficial-APIs/Robinhood-Unofficial-API.git
+	url = https://github.com/Integuru-AI/Robinhood-Unofficial-API.git
 	branch = main
 [submodule "ersp"]
 	path = ersp
-	url = https://github.com/Integuru-AI/eSRP-Unofficial-API
+	url = https://github.com/Integuru-AI/eRSP-Unofficial-API
 	branch = main
 
 [submodule "viventium"]
@@ -69,7 +69,121 @@
 	url = https://github.com/Integuru-AI/ECW-Unofficial-API.git
 [submodule "office_ally"]
 	path = office_ally
-	url = https://github.com/Integuru-AI/OfficeAllt-Unofficial-API.git
+	url = https://github.com/Integuru-AI/OfficeAlly-Unofficial-API.git
 [submodule "patreon"]
 	path = patreon
 	url = https://github.com/Integuru-AI/Patreon-Unofficial-API
+[submodule "nextgen"]
+	path = nextgen
+	url = https://github.com/Integuru-AI/NextGen-Unofficial-API
+[submodule "taylorstitch"]
+	path = taylorstitch
+	url = https://github.com/Integuru-AI/TaylorStitch-Unofficial-API
+[submodule "myunity"]
+	path = myunity
+	url = https://github.com/Integuru-AI/MyUnity-Unofficial-API
+[submodule "bni_portal"]
+	path = bni_portal
+	url = https://github.com/Integuru-AI/BNI-Portal-Unofficial-API
+[submodule "figma"]
+	path = figma
+	url = https://github.com/Integuru-AI/Figma-Unofficial-API
+[submodule "kolm_kontrast"]
+	path = kolm_kontrast
+	url = https://github.com/Integuru-AI/Kolm-Kontrast-Unofficial-API
+[submodule "esoft"]
+	path = esoft
+	url = https://github.com/Integuru-AI/Esoft-Unofficial-API
+[submodule "xero"]
+	path = xero
+	url = https://github.com/Integuru-AI/Xero-Unofficial-API
+[submodule "twinq"]
+	path = twinq
+	url = https://github.com/Integuru-AI/TwinQ-Unofficial-API
+[submodule "opencorporates"]
+	path = opencorporates
+	url = https://github.com/Integuru-AI/OpenCorporates-Unofficial-API
+[submodule "gradconnection"]
+	path = gradconnection
+	url = https://github.com/Integuru-AI/GradConnection-Unofficial-API
+[submodule "drchrono"]
+	path = drchrono
+	url = https://github.com/Integuru-AI/DrChrono-Unofficial-API
+[submodule "aimfox"]
+	path = aimfox
+	url = https://github.com/Integuru-AI/Aimfox-Unofficial-API
+[submodule "verafi"]
+	path = verafi
+	url = https://github.com/Integuru-AI/Verafi-Unofficial-API
+[submodule "mylean_law"]
+	path = mylean_law
+	url = https://github.com/Integuru-AI/MyLean-Law-Unofficial-API
+[submodule "ime"]
+	path = ime
+	url = https://github.com/Integuru-AI/IME-Unofficial-API
+[submodule "resy"]
+	path = resy
+	url = https://github.com/Integuru-AI/Resy-Unofficial-API
+[submodule "velocity"]
+	path = velocity
+	url = https://github.com/Integuru-AI/Velocity-Unofficial-API
+[submodule "rnpad"]
+	path = rnpad
+	url = https://github.com/Integuru-AI/RNpad-Unofficial-API
+[submodule "groups_io"]
+	path = groups_io
+	url = https://github.com/Integuru-AI/Groups-io-Unofficial-API
+[submodule "deshazoconnect"]
+	path = deshazoconnect
+	url = https://github.com/Integuru-AI/DeshazoConnect-Unofficial-API
+[submodule "zenoti"]
+	path = zenoti
+	url = https://github.com/Integuru-AI/Zenoti-Unofficial-API
+[submodule "workeasy"]
+	path = workeasy
+	url = https://github.com/Integuru-AI/Workeasy-Unofficial-API
+[submodule "wefunder"]
+	path = wefunder
+	url = https://github.com/Integuru-AI/Wefunder-Unofficial-API
+[submodule "vagaro"]
+	path = vagaro
+	url = https://github.com/Integuru-AI/Vagaro-Unofficial-API
+[submodule "sunwave"]
+	path = sunwave
+	url = https://github.com/Integuru-AI/Sunwave-Unofficial-API
+[submodule "spoton_teamwork"]
+	path = spoton_teamwork
+	url = https://github.com/Integuru-AI/SpotOn-Teamwork-Unofficial-API
+[submodule "spoton"]
+	path = spoton
+	url = https://github.com/Integuru-AI/SpotOn-Unofficial-API
+[submodule "modmed"]
+	path = modmed
+	url = https://github.com/Integuru-AI/Modmed-Unofficial-API
+[submodule "marginedge"]
+	path = marginedge
+	url = https://github.com/Integuru-AI/MarginEdge-Unofficial-API
+[submodule "insync_familycarecenter"]
+	path = insync_familycarecenter
+	url = https://github.com/Integuru-AI/InSync-FamilyCareCenter-Unofficial-API
+[submodule "homebase"]
+	path = homebase
+	url = https://github.com/Integuru-AI/HomeBase-Unofficial-API
+[submodule "clearcare"]
+	path = clearcare
+	url = https://github.com/Integuru-AI/ClearCare-Unofficial-API
+[submodule "cilio"]
+	path = cilio
+	url = https://github.com/Integuru-AI/Cilio-Unofficial-API
+[submodule "aloha"]
+	path = aloha
+	url = https://github.com/Integuru-AI/Aloha-Unofficial-API
+[submodule "aesthetic_record"]
+	path = aesthetic_record
+	url = https://github.com/Integuru-AI/Aesthetic-Record-Unofficial-API
+[submodule "wellsky"]
+	path = wellsky
+	url = https://github.com/Integuru-AI/Wellsky-Unofficial-API
+[submodule "fattal_booking"]
+	path = fattal_booking
+	url = https://github.com/Integuru-AI/Fattal-Booking-Unofficial-API
