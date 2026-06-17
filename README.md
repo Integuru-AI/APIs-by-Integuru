@@ -68,4 +68,4 @@ Reference `main.py` for usage.
 
 ## Info
 
-These unofficial APIs are built by [Integuru.ai](https://integuru.ai). We take custom requests for new integrations or additional features for existing supported platforms. We also offer hosting and authentication services. If you have requests or want to work with us, reach out at richard@integuru.ai.
+These unofficial APIs are built by [Integuru](https://integuru.com). We take custom requests for new integrations or additional features for existing supported platforms. We also offer hosting and authentication services. If you have requests or want to work with us, reach out at richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
